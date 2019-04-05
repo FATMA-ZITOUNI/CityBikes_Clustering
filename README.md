@@ -7,7 +7,7 @@ This application is build in he interface intelliJ using sbt and scala
 
 
 ## Requirements:
-- JDB 8.1\
+- JDK 8.1\
 - Scala 2.11.12\
 - SBT 1.2.8
 
