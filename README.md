@@ -2,13 +2,12 @@
  
 
 ## Description:
-The project is a clustering analytics application that uses Kmeans method to create clusters based on the location of the bike stations.\ 
-This application is build in he interface intelliJ using sbt and scala
+The project is a clustering analytics application that uses Kmeans method to create clusters based on the location of the bike stations. This application is build in he interface intelliJ using sbt and scala
 
 
 ## Requirements:
-- JDK 8.1\
-- Scala 2.11.12\
+- JDK 8.1
+- Scala 2.11.12
 - SBT 1.2.8
 
 ## Steps:
